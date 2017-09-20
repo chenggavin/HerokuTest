@@ -8,3 +8,4 @@ app.listen(port, function() {
   console.log('I am listening on port 3000!');
 });
 
+button.onclick = function alert ("THANK YOU THANK YOU THANK YOU");
