@@ -18,6 +18,8 @@
   "dependencies": {
     "express": "^4.15.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
   "description": ""
 }
